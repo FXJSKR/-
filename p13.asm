@@ -1,4 +1,4 @@
-;安装0号中断
+;安装0号中断：除法溢出
 assume cs:code
 code segment
 do0:
